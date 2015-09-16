@@ -1,4 +1,4 @@
-var noamValidation 	= require('./someApi/noam');
+var noamValidation 	= require('./someApi/noam'),
 	Q				= require('q');
 
 module.exports.MyService = MyService;
